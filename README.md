@@ -19,9 +19,11 @@ Build a blockchain-based ledger system, complete with a user-friendly web interf
 
 ## Solution/Summary
 
-1. Create a new data class named `Record`. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
+1. Create a new data class named `Record` in `pychain.py`. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
 
-2. Modify the existing `Block` data class to store `Record` data.
+2. Modify the existing `Block` data class to store `Record` data in `pychain.py`.
+
+3. Add `pychain.py` to local drive and execute `streamlit run pychain.py` in terminal to access Streamlit application page.
 
 3. Add Relevant User Inputs to the Streamlit interface.
 
