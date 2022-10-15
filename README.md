@@ -25,10 +25,12 @@ Build a blockchain-based ledger system, complete with a user-friendly web interf
 
 3. Add `pychain.py` to local drive and execute `streamlit run pychain.py` in terminal to access Streamlit application page.
 
-3. Add Relevant User Inputs to the Streamlit interface.
+4. Add Relevant User Inputs to the Streamlit interface.
 
 ![Relevant User Inputs](https://github.com/lrb924/PyChain_Ledger/blob/main/Images/Screen%20Shot%202022-10-15%20at%202.10.04%20PM.png)
 
-4. Test the PyChain Ledger by Storing Records.
+5. Test the PyChain Ledger by Storing Records.
 
 ![Storing Records](https://github.com/lrb924/PyChain_Ledger/blob/main/Images/Screen%20Shot%202022-10-15%20at%202.10.45%20PM.png)
+
+All records were successfully added to the PyChain Ledger.
